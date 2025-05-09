@@ -1,0 +1,12 @@
+To make it easier for others to install dependencies:
+
+```txt
+streamlit
+pandas
+PyPDF2
+docx
+selenium
+webdriver-manager
+openai
+langchain
+plotly
