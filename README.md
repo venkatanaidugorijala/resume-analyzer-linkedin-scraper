@@ -22,4 +22,4 @@ This is a Streamlit-based application that analyzes resumes using OpenAI's LLMs 
 
 ## 📊 PPT Demo
 
-See: [`AI_Resume_Analyze_Final_PPT.pptx`](./AI_Resume_Analyze_Final_PPT.pptx)
+See: [[`AI_Resume_Analyze_Final_PPT.pptx`](./AI_Resume_Analyze_Final_PPT.pptx)](https://github.com/venkatanaidugorijala/resume-analyzer-linkedin-scraper/blob/main/AI_Resume_Analyze%20Final%20PPT.pptx)
